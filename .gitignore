@@ -1,5 +1,7 @@
 # Compiled executables
 
+recap/recall.txt
+
 01_helloworld/helloworld
 02_variables/variables
 03_format_specifiers/format_specifiers
@@ -51,3 +53,4 @@ projects/09_rock_paper_scissors/rps_game
 projects/10_banking_program/banking_program
 projects/11_quiz/quiz
 projects/12_clock/12_clock
+
